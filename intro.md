@@ -29,12 +29,12 @@ Error Handling
 
 ### Outline
 
-* handling exceptions
+* exception handling
 * custom exception classes
 * antipatterns:
   - Exception as Control Flow
   - Error hiding / Exception swallowing
-* error handling without try-catch
+* __error__ handling without try-catch
 * regular expressions
   - detecting badly-formatted strings
   - outside error handling
