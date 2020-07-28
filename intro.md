@@ -89,15 +89,15 @@ void main() {
   print('Enter -1 to stop registration.');
   while (true) {
     stdout.write('Enter name of household head: ');
-    final sendTo = stdin.readLineSync();
+    final head = stdin.readLineSync();
  
-    if (sendTo == '!') break;
+    if (head == '!') break;
  
     stdout.write('How many members in your household? ');
     final headCount = int.parse(stdin.readLineSync());
     totalPersonCount += headCount;
  
-    households.add(Household(sendTo, headCount));
+    households.add(Household(head, headCount));
     stdout.write("Recipient's registration ref. #: ");
     print('RR #${households.length}');
   }
