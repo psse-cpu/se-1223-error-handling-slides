@@ -179,4 +179,5 @@ Give 185 pcs. to recipient.
 --- Masks donated by Sen. Bong Go ---
 ```
 
-Our world is not perfect, what can go wrong here?
+* Our world is not perfect, what can go wrong here? 
+  - Discuss your findings [here](https://canvas.instructure.com/courses/2109863/discussion_topics/9443000).
