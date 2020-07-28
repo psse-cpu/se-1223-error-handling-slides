@@ -278,6 +278,9 @@ Just donate the masks, nobody wants it.
 GET YOUR MASKS, PLS. STAY 1M FROM EACH OTHER
 </pre>
 
+It's not a perfect fix, but hey, no crashes!
+
+
 
 
 ### Bug Report #3
