@@ -1,0 +1,7 @@
+  @startuml "composition"
+    College --> Building
+    College --> "1..*" Department
+    Department --> "0..*" Faculty
+    Faculty --> "*" Course: coursesTaught
+    note left of Course: * also means 0..*
+  @enduml
