@@ -5,4 +5,4 @@ Credits
 
 
 
-## And that's it for Composition
+## And that's it for Error Handling
