@@ -31,7 +31,7 @@ You can see [this](https://softwareengineering.stackexchange.com/a/107760) and
 - Don't do this everywhere
   * some may not even throw exceptions
   * hard to pinpoint lines that do
-  * ideally only one line inside `try`
+  * ideally only one **OBVIOUS** line inside `try`
 
 ```dart
 try {
