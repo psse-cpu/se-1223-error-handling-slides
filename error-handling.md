@@ -401,7 +401,7 @@ $ dart demo.dart
 ### Unwanted things can bypass our `if`-statement
 
 <pre style="overflow: hidden">
-$ ls -lh  # just making sure debt.txt exists
+$ ls -lh  # just making sure debt.txt exists (& OK permissions)
 total 12K
 -rw-r--r-- 1 michael michael   41 Aug  2 23:49 debt.txt
 -rw-r--r-- 1 michael michael  407 Aug  3 00:14 demo.dart
