@@ -64,7 +64,7 @@ try {
 
 ```dart
 try {
-  // all
+  // dangerous
   // lines
   // of 
   // code
