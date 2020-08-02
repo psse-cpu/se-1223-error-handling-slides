@@ -87,7 +87,7 @@ try {
 
 And nope, `tryParse` is just the name of the method.
 
-```dart
+```dart [24 | 26-36 | 41,44-47 | 49-52 | 63-68 | 70-77]
 import 'dart:io';
  
 class Household {
@@ -299,7 +299,7 @@ Just donate the masks, nobody wants it.
 * File does not exist
   - that seems easy, use an `if`-statement!
 
-```dart
+```dart [4 | 6-9 | 11-18]
 import 'dart:io';
 
 void main() {
@@ -424,7 +424,7 @@ FileSystemException: Cannot open file, path = 'debt.txt' (OS Error: No such file
 
 ### The proper way:  `try-catch`!
 
-```dart
+```dart [4 | 6-14 | 15-18 | 21-31]
 import 'dart:io';
 
 void main() {
