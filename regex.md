@@ -536,7 +536,7 @@ void main() {
           final remaining = contactNumber.trim().substring(2);
 
           if (remaining.length == 9) {
-            for (var i = 0; i &lt;code remaining.length; i++) {
+            for (var i = 0; i &lt; remaining.length; i++) {
               if (!'0123456789'.contains(remaining[i])) {
                 printErrorAndStartOver('invalid contact #');
               }
