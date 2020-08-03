@@ -496,7 +496,7 @@ var _introShown = false;
 
 void main() {
   if (!_introShown) {
-    print('Welcome to the CPU e-Learning chatbot');
+    print('Welcome to the CPU Engg e-Learning chatbot');
     _introShown = true;
   }
 
@@ -634,7 +634,7 @@ var introShown = false;
 
 void main() {
   if (!introShown) {
-    print('Welcome to the CPU e-Learning chatbot');
+    print('Welcome to the CPU Engg e-Learning chatbot');
     introShown = true;
   }
   
@@ -679,7 +679,7 @@ void main() {
 #### Sample Run
 
 <pre style="font-size: 0.425em">
-Welcome to the CPU e-Learning chatbot
+Welcome to the CPU Engg e-Learning chatbot
 Pls. enter your details in this format...
 name / course & year / contact #: / BSECE-4 / 09191234567 
 Please check that you are following the correct format.
