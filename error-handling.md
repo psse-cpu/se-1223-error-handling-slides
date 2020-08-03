@@ -210,7 +210,7 @@ Give 30 pcs. to recipient.
 
 
 
-### Mask count is non-numeric
+### Invalid total mask count handled
 
 <pre>
 *** REGISTRATION HAS BEEN ENDED ***
