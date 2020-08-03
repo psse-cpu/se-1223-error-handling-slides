@@ -722,3 +722,5 @@ Contact #: 09191234567
     - we can't always solve everything with 1 regex
   - regexps are **OVERKILL** in many <u>simple tasks</u>
     - it uses an engine called an automaton behind the scenes
+
+<!-- trigger GH pages rebuild -->
