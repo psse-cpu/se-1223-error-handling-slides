@@ -319,7 +319,7 @@ H&lt;3: true
 
 * They're quantifiers
   - `{4}` means repeated 4 times
-  - `{5-10}` means repeated 5 to 10 times
+  - `{5,10}` means repeated 5 to 10 times
   - `{3,}` means repeated 3 or more times
     + notice that it's a comma **followed by the closing curly brace**
 
