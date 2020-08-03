@@ -404,7 +404,7 @@ showMatch(RegExp(r'(ha)*'), 'lol hahaha'); // true
 ### The caret and dollar `^ $`
 
 * They match positions, rather than actual characters
-  - `^` means the start of tring _"(starts with)"_
+  - `^` means the start of string _"(starts with)"_
     + second purpose of caret
   - `$` means the end of string _"(ends with)"_
   - `^$` means exactly
