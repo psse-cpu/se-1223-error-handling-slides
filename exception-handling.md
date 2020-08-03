@@ -52,7 +52,7 @@ try {
   moreCodeSkippedWhenExceptionOccurs();
 } on SpecificKindOfException {
   // No object given, 
-} on AnotherSpecificException catch (exception)
+} on AnotherSpecificException catch (exception) {
   // do something w/ AnotherSpecificException object
 } finally {
   // clean up
